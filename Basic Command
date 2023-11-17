@@ -1,0 +1,53 @@
+cd Desktop/OS/PROGRAM
+
+ls
+
+pwd
+
+mkdir krishna
+
+rmdir krishna
+
+cd krishna
+
+touch first.txt
+
+rm first.txt
+
+echo "hello world"
+
+echo "hello world" > first.sh
+
+cat first.sh
+
+mv first.sh second.sh
+
+cat second.sh
+
+rm fake.sh
+
+uname
+
+ps
+
+touch second.txt
+
+echo "this is second" > second.txt
+
+cat second.txt
+
+man grep
+
+grep "this" second.txt
+
+sudo apt install ncal
+
+cal
+
+df
+
+wc second.txt
+
+sed 's/unix/linux/' second.txt
+
+
